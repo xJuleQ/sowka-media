@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "posts": [
+    {
+      "date": "2026-11-23",
+      "type": "carousel",
+      "words": [
+        "epoka",
+        "wyeksponować",
+        "emanacja"
+      ],
+      "n": 0,
+      "questionSeed": null,
+      "files": [
+        "2026-11-23/01.jpg",
+        "2026-11-23/02.jpg",
+        "2026-11-23/03.jpg",
+        "2026-11-23/04.jpg",
+        "2026-11-23/05.jpg",
+        "2026-11-23/06.jpg",
+        "2026-11-23/07.jpg",
+        "2026-11-23/08.jpg"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Epoka, wyeksponować, emanacja. Które z tych słów znasz? 📚\n\nPrzesuń karuzelę i zanim zobaczysz znaczenie, spróbuj zgadnąć. Zapisz post, żeby wrócić do niego, gdy zabraknie Ci trafnego słowa.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #jezykpolski #slowka #slownictwo #polskislowa"
+        },
+        "tiktok": {
+          "text": "Epoka, wyeksponować, emanacja. Które znasz? 📚 Przesuń i sprawdź znaczenie.\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #jezykpolski #slownictwo #nauka",
+          "title": "Epoka, wyeksponować, emanacja. Które znasz?"
+        }
+      },
+      "alts": [
+        "Okładka karuzeli Sówki: wiele osób nie zna tych słów, a Ty?",
+        "Słowo: epoka",
+        "Słowo epoka, prościej: okres",
+        "Słowo: wyeksponować",
+        "Słowo wyeksponować, prościej: podkreślić",
+        "Słowo: emanacja",
+        "Słowo emanacja, prościej: wyraz czegoś",
+        "Więcej słów czeka w Sówce. Pobierz w Google Play."
+      ],
+      "stagedAt": "2026-11-15T23:54:55.654Z"
+    },
+    {
+      "date": "2026-11-24",
+      "type": "video",
+      "words": [
+        "aspekt",
+        "sarkazm",
+        "wyartykułować",
+        "wyważony",
+        "alienacja"
+      ],
+      "n": 0,
+      "questionSeed": 253815252,
+      "files": [
+        "2026-11-24/quiz.mp4"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Aspekt, sarkazm, wyartykułować, wyważony, a co oznacza alienacja? 🤔\n\nPięć słów, po 3 sekundy na odpowiedź. Ile uda Ci się trafić? Napisz w komentarzu. ✅\n\n📲 Pobierz Sówkę w Google Play (link w bio) i poszerzaj swoje słownictwo.\n\n#sowka #quizjezykowy #jezykpolski #slowka #nauka"
+        },
+        "tiktok": {
+          "text": "Pięć trudnych słów, 3 sekundy na każde. Ile znasz? 🤔 Wynik wpisz w komentarzu.\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #quizjezykowy #jezykpolski #nauka"
+        },
+        "youtube": {
+          "title": "Znasz te trudne słowa? Quiz po polsku",
+          "text": "Pięć słów, po 3 sekundy na odpowiedź. Napisz w komentarzu, ile udało Ci się trafić. ✅\n\nW quizie: aspekt, sarkazm, wyartykułować, wyważony, alienacja.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #quizjezykowy #jezykpolski #nauka"
+        }
+      },
+      "alts": null,
+      "stagedAt": "2026-11-15T23:55:58.833Z"
+    }
+  ],
+  "rejected": []
+}
