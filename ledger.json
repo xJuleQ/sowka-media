@@ -112,6 +112,36 @@
         "Więcej słów czeka w Sówce. Pobierz w Google Play."
       ],
       "stagedAt": "2026-11-19T10:49:40.878Z"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "video",
+      "words": [
+        "preludium",
+        "otucha",
+        "karkołomny",
+        "afront",
+        "letarg"
+      ],
+      "n": 1,
+      "questionSeed": 256704978,
+      "files": [
+        "2026-11-27/quiz.mp4"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Preludium, otucha, karkołomny, afront, letarg. Ile z tych słów znasz? 🤔\n\nKażde słowo ma 3 sekundy na odpowiedź. Napisz w komentarzu, ile udało Ci się trafić. ✅\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #quizjezykowy #jezykpolski #slowka #nauka"
+        },
+        "tiktok": {
+          "text": "Quiz z trudnymi słowami: po 3 sekundy na odpowiedź. Ile uda Ci się trafić? 🤔\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #quizjezykowy #jezykpolski #nauka"
+        },
+        "youtube": {
+          "title": "Quiz po polsku: ile z tych słów znasz?",
+          "text": "Quiz z trudnymi słowami: po 3 sekundy na odpowiedź. Napisz w komentarzu, ile udało Ci się trafić. ✅\n\nW quizie: preludium, otucha, karkołomny, afront, letarg.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #quizjezykowy #jezykpolski #nauka"
+        }
+      },
+      "alts": null,
+      "stagedAt": "2026-11-19T10:59:07.736Z"
     }
   ],
   "rejected": []
