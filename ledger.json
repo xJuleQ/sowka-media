@@ -71,6 +71,47 @@
       },
       "alts": null,
       "stagedAt": "2026-11-15T23:55:58.833Z"
+    },
+    {
+      "date": "2026-11-26",
+      "type": "carousel",
+      "words": [
+        "wyrafinowany",
+        "bezterminowo",
+        "absurd"
+      ],
+      "n": 1,
+      "questionSeed": null,
+      "files": [
+        "2026-11-26/01.jpg",
+        "2026-11-26/02.jpg",
+        "2026-11-26/03.jpg",
+        "2026-11-26/04.jpg",
+        "2026-11-26/05.jpg",
+        "2026-11-26/06.jpg",
+        "2026-11-26/07.jpg",
+        "2026-11-26/08.jpg"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Trzy słowa na dziś: wyrafinowany, bezterminowo, absurd. Które z nich znasz? 📚\n\nKażde słowo ma osobny slajd ze znaczeniem i przykładem. Zapisz post, żeby wrócić do niego, gdy zabraknie Ci trafnego słowa.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #jezykpolski #slowka #slownictwo #polskislowa"
+        },
+        "tiktok": {
+          "text": "Trzy słowa: wyrafinowany, bezterminowo, absurd. Które z nich znasz? 📚 Przesuń, żeby sprawdzić.\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #jezykpolski #slownictwo #nauka",
+          "title": "Wyrafinowany, bezterminowo, absurd. Które znasz?"
+        }
+      },
+      "alts": [
+        "Okładka karuzeli Sówki: wiele osób nie zna tych słów, a Ty?",
+        "Słowo: wyrafinowany",
+        "Słowo wyrafinowany, prościej: wysmakowany",
+        "Słowo: bezterminowo",
+        "Słowo bezterminowo, prościej: bez końca",
+        "Słowo: absurd",
+        "Słowo absurd, prościej: nonsens",
+        "Więcej słów czeka w Sówce. Pobierz w Google Play."
+      ],
+      "stagedAt": "2026-11-19T10:49:40.878Z"
     }
   ],
   "rejected": []
