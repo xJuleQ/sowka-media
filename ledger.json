@@ -145,6 +145,81 @@
       "alts": null,
       "stagedAt": "2026-11-19T10:59:07.736Z",
       "story": "ugodowy"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "carousel",
+      "collection": "wyrafinowane",
+      "words": [
+        "asocjacja",
+        "apatia",
+        "replika"
+      ],
+      "n": 2,
+      "questionSeed": null,
+      "files": [
+        "2026-11-28/01.jpg",
+        "2026-11-28/02.jpg",
+        "2026-11-28/03.jpg",
+        "2026-11-28/04.jpg",
+        "2026-11-28/05.jpg",
+        "2026-11-28/06.jpg",
+        "2026-11-28/07.jpg",
+        "2026-11-28/08.jpg"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Asocjacja, apatia, replika. Spróbuj zgadnąć znaczenia, zanim przesuniesz dalej. 📚\n\nPrzesuń i sprawdź, czy trafnie zgadujesz znaczenia. Zapisz post, jeśli chcesz wrócić do tych słów później.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #jezykpolski #slowka #slownictwo #polskislowa"
+        },
+        "tiktok": {
+          "text": "Asocjacja, apatia, replika. Spróbuj zgadnąć, zanim przesuniesz dalej. 📚\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #jezykpolski #slownictwo #nauka",
+          "title": "Asocjacja, apatia, replika. Które znasz?"
+        }
+      },
+      "alts": [
+        "Okładka karuzeli Sówki: wiele osób nie zna tych słów, a Ty?",
+        "Słowo: asocjacja",
+        "Słowo asocjacja, prościej: skojarzenie",
+        "Słowo: apatia",
+        "Słowo apatia, prościej: obojętność",
+        "Słowo: replika",
+        "Słowo replika, prościej: odpowiedź",
+        "Więcej słów czeka w Sówce. Pobierz w Google Play."
+      ],
+      "stagedAt": "2026-11-25T12:20:16.811Z",
+      "story": "zgryzota"
+    },
+    {
+      "date": "2026-11-29",
+      "type": "video",
+      "collection": "wyrafinowane",
+      "words": [
+        "credo",
+        "eufemizm",
+        "nostalgia",
+        "pauperyzacja",
+        "przerażenie"
+      ],
+      "n": 2,
+      "questionSeed": 257452703,
+      "files": [
+        "2026-11-29/quiz.mp4"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Krótki quiz: credo, eufemizm, nostalgia, pauperyzacja, przerażenie. Ile uda Ci się trafić? 🤔\n\nPięć pytań, po 3 sekundy na każde. Wynik możesz wpisać w komentarzu. ✅\n\n📲 Pobierz Sówkę w Google Play (link w bio) i poszerzaj swoje słownictwo.\n\n#sowka #quizjezykowy #jezykpolski #slowka #nauka"
+        },
+        "tiktok": {
+          "text": "Pięć słów i po 3 sekundy na każde. Wynik napisz w komentarzu. 🤔\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #quizjezykowy #jezykpolski #nauka"
+        },
+        "youtube": {
+          "title": "Pięć polskich słów. Ile znasz? #shorts #jezykpolski #quizjezykowy",
+          "text": "Pięć słów, po 3 sekundy na każde. Wynik możesz wpisać w komentarzu. ✅\n\nW quizie: credo, eufemizm, nostalgia, pauperyzacja, przerażenie.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #quizjezykowy #jezykpolski #nauka"
+        }
+      },
+      "alts": null,
+      "stagedAt": "2026-11-25T12:21:32.870Z",
+      "story": "jednowymiarowy"
     }
   ],
   "rejected": []
