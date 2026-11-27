@@ -220,6 +220,49 @@
       "alts": null,
       "stagedAt": "2026-11-25T12:21:32.870Z",
       "story": "jednowymiarowy"
+    },
+    {
+      "date": "2026-11-30",
+      "type": "carousel",
+      "collection": "wyrafinowane",
+      "words": [
+        "manifestacja",
+        "zdumienie",
+        "permanentny"
+      ],
+      "n": 3,
+      "questionSeed": null,
+      "files": [
+        "2026-11-30/01.jpg",
+        "2026-11-30/02.jpg",
+        "2026-11-30/03.jpg",
+        "2026-11-30/04.jpg",
+        "2026-11-30/05.jpg",
+        "2026-11-30/06.jpg",
+        "2026-11-30/07.jpg",
+        "2026-11-30/08.jpg"
+      ],
+      "captions": {
+        "instagram": {
+          "text": "Manifestacja, zdumienie, permanentny. Które z tych słów znasz? 📚\n\nPrzesuń karuzelę i zanim zobaczysz znaczenie, spróbuj zgadnąć. Zapisz post, żeby wrócić do niego, gdy zabraknie Ci trafnego słowa.\n\n📲 Pobierz Sówkę w Google Play (link w bio).\n\n#sowka #jezykpolski #slowka #slownictwo #polskislowa"
+        },
+        "tiktok": {
+          "text": "Manifestacja, zdumienie, permanentny. Które znasz? 📚 Przesuń i sprawdź znaczenie.\n\n📲 Pobierz Sówkę w sklepie Play.\n\n#sowka #jezykpolski #slownictwo #nauka",
+          "title": "Manifestacja, zdumienie, permanentny. Które znasz?"
+        }
+      },
+      "alts": [
+        "Okładka karuzeli Sówki: wiele osób nie zna tych słów, a Ty?",
+        "Słowo: manifestacja",
+        "Słowo manifestacja, prościej: publiczny protest",
+        "Słowo: zdumienie",
+        "Słowo zdumienie, prościej: zaskoczenie",
+        "Słowo: permanentny",
+        "Słowo permanentny, prościej: stały",
+        "Więcej słów czeka w Sówce. Pobierz w Google Play."
+      ],
+      "stagedAt": "2026-11-27T08:41:10.950Z",
+      "story": "eskalacja"
     }
   ],
   "rejected": []
